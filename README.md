@@ -1,4 +1,5 @@
 # github-actions-with-aws-sam
+<<<<<<< HEAD
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
@@ -128,3 +129,6 @@ aws cloudformation delete-stack --stack-name github-actions-with-aws-sam
 See the [AWS SAM developer guide](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) for an introduction to SAM specification, the SAM CLI, and serverless application concepts.
 
 Next, you can use AWS Serverless Application Repository to deploy ready to use Apps that go beyond hello world samples and learn how authors developed their applications: [AWS Serverless Application Repository main page](https://aws.amazon.com/serverless/serverlessrepo/)
+=======
+Practice creating a AWS SAM app and deploying with Github actions
+>>>>>>> 7504017896d3a6f7880a3526b95409de72b97d9f
